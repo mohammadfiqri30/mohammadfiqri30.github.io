@@ -1,0 +1,55 @@
+body{
+    font-family: 'Rubik', sans-serif;
+}
+
+/*navbar*/
+.navbar{
+    background-color: rgba(231, 231, 179, 0.897);
+}
+
+/*Jumbotron*/
+.jumbotron{
+    background-image: url(asset/jumbotron.jpg);
+    height: 840px;
+    background-size: cover;
+}
+.jumbotron .display-4 {
+    text-align: center;
+    color: rgba(51, 19, 13, 0.938);
+    font-weight: 400;
+    text-shadow: 3px 3px 10px black;
+}
+
+/*kelas*/
+.kelas p{
+    font-size: 18px;
+    margin: 20px auto;
+}
+
+/*Benefit*/
+.benefit h5{
+    margin-top: 20px;
+    margin-left: 15px;
+    font-weight: bold;
+}
+.benefit p{
+    margin-left: 15px;
+}
+
+/*Testimonial*/
+.testimonial img{
+    display: block;
+    margin: 25px auto;
+    border: 1px black;
+}
+
+/*Footer*/
+footer{
+    background-color:rgba(231, 231, 179, 0.897);
+}
+
+footer h4{
+    margin-top: 15px;
+    color: cornflowerblue;
+    font-size: 12px;
+}
